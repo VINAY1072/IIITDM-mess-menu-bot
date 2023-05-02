@@ -5,6 +5,7 @@ It will reply the Breakfast/Lunch/Snacks/Dinner of present day
 start with '/help' command
 
 You will get a message as
+
             *******************************
             /start --- welcome
             /help --- for commands display
